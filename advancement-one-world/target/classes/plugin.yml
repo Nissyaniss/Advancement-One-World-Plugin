@@ -1,0 +1,4 @@
+name: AdvancementOneWorld
+version: '1.0-SNAPSHOT'
+main: me.nissya.advancementoneworld.AdvancementOneWorld
+api-version: '1.20'

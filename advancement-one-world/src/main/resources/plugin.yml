@@ -1,0 +1,4 @@
+name: AdvancementOneWorld
+version: '${project.version}'
+main: me.nissya.advancementoneworld.AdvancementOneWorld
+api-version: '1.20'
